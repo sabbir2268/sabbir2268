@@ -11,24 +11,21 @@ some new language and skills like React.js, Tailwind CSS, SEO friendly Web Devel
 * Tools : Git, GitHub, VScode, Canva, Figma, Gemini,  
 
 **Projects**
-
-* List of your projects with links
-* Short descriptions
+My projects will appear here soon.
 
 **Contact**
 
-* Email
-* LinkedIn
-* Twitter (or other social media)
+* Email: mdsabbirrahman2268@gmail.com
+* LinkedIn : https://www.linkedin.com/in/mdsabbir2268/
 
-**Stats**
+<!--**Stats**
 
 * Add GitHub stats, contribution graphs, etc.
   (You can use services like GitHub Stats or shields.io)
 
 [Image of you or your work]
 
-**Additional sections:**
+<!--**Additional sections:**
 * Blog posts
 * Open source contributions
 * Certifications
