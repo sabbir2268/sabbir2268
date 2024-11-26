@@ -8,7 +8,7 @@ some new language and skills like React.js, Tailwind CSS, SEO friendly Web Devel
 **Skills**
 * Programming languages: HTML, CSS, Javascript
 * Frameworks and libraries: Bootstrap, Tailwind
-* Tools : Git, GitHub, VScode, Canva, Figma, Gemini,  
+* Tools : Git, GitHub, VScode, Canva, Figma.  
 
 **Projects**
 My projects will appear here soon.
