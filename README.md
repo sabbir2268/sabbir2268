@@ -6,12 +6,12 @@ i've experience over 1 year of frontend development with HTML, CSS, JS and Boots
 some new language and skills like React.js, Tailwind CSS, SEO friendly Web Development.
 
 **Skills**
-* Programming languages: HTML, CSS, Javascript
-* Frameworks and libraries: Bootstrap, Tailwind
+* Programming languages: HTML, CSS, Javascript, C(DSA), Java(OOP)
+* Frameworks and libraries: Tailwind, DaisyUI.
 * Tools : Git, GitHub, VScode, Canva, Figma.  
 
 **Projects**
-My projects will appear here soon.
+
 
 **Contact**
 
