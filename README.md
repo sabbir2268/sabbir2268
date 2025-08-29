@@ -7,7 +7,7 @@ some new language and skills like React.js, Tailwind CSS, SEO friendly Web Devel
 
 **Skills**
 * Programming languages: HTML, CSS, Javascript, C(DSA), Java(OOP)
-* Frameworks and libraries: Tailwind, DaisyUI.
+* Frameworks and libraries: Tailwind, DaisyUI, ReactJS
 * Tools : Git, GitHub, VScode, Canva, Figma.  
 
 **Projects**
