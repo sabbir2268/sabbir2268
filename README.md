@@ -64,7 +64,7 @@
 
 ###
 
-<h3 align="left">📞   My Contact :</h3>
+<h3 align="left">Contact Me:</h3>
 
 <div align="left">
   <a href="mailto:mdsabbirrahman2268@gmail.com">
